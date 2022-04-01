@@ -6,7 +6,7 @@ Course Coordinator: Mr. Jithin Isaac
 ### Laboratory Experiment No. 2
  
 ### Objective  
-To perform Multiplication & Division of two 8 bit numbers using External RAM of the AT89S52 microcontroller
+To perform Multiplication & Division of two 8 bit numbers using External RAM interfaced with the AT89S52 microcontroller
  
 ### Tools used  
 - Software: 
@@ -17,11 +17,11 @@ To perform Multiplication & Division of two 8 bit numbers using External RAM of 
 - To use the External RAM along with Internal RAM
 - To learn about the multiplication & division assembly instructions
 - To perform the above arithmetic operations & simulate the program
-- To understand the implementation of 16 bti results obtained as a result of the above arithmetic operations
+- To understand the implementation of 16 bit results obtained as a result of the above arithmetic operations
 
 ### Instructions
 
-1. Read about Internal RAM of 8051 from 8051-Kenneth Ayala book
+1. Read about External RAM interfacing with 8051 from 8051-Kenneth Ayala book
 2. Use the Atmel 8051 Instruction sheet document to learn about the arithmetic instructions
 
 ### Final list of Deliverables for Expt 2
@@ -31,6 +31,8 @@ To perform Multiplication & Division of two 8 bit numbers using External RAM of 
 - Division operation
   - Using Internal RAM
   - Using External RAM (MOVX commands)
+
+`Please add .asm files of all the codes executed, inside the experiment repository`
 
 ### Procedure 
 - **ADD THE PROCEDURE THAT YOU FOLLOWED FOR COMPLETING THE EXPERIMENT HERE**
