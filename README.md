@@ -21,7 +21,7 @@ To perform Multiplication & Division of two 8 bit numbers using External RAM int
 
 ### Instructions
 
-1. Read about External RAM interfacing with 8051 from 8051-Kenneth Ayala book
+1. Read about External RAM interfacing with 8051  (Kenneth Ayala/ Mazidi)
 2. Use the Atmel 8051 Instruction sheet document to learn about the arithmetic instructions
 
 ### Final list of Deliverables for Expt 2
